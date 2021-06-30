@@ -1,6 +1,9 @@
 # music_app
 
-A new Flutter project.
+Flutter music player app inspired by doctor code on YouTube.
+
+Link to tutorial:
+https://www.youtube.com/watch?v=TaiOPM4oeyY
 
 ## Getting Started
 
